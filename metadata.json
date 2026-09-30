@@ -1,0 +1,10 @@
+{
+  "name": "Chandrakanti - AI Voice Agent by Saipratap Developer",
+  "description": "Production-ready multilingual AI Voice Agent with real-time two-way voice conversations, live transcription, barge-in interruption, and natural voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
